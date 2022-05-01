@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Florian Debosz
+===============================
+Game Developer Junior
+---------------------
+Hi 👋 My name is Florian Debosz
+* 🌍  I'm based in France
 
-<!--
-**FlorianDebosz/FlorianDebosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorianDebosz&hide=stars,prs,issues,contribs&title_color=BF0603&bg_color=140F2D&text_color=EAEAEA&hide_border=true&locale=en&border_radius=7"/>
+  </a>
+</div>
