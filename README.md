@@ -2,7 +2,6 @@ Hi 👋 My name is Florian Debosz
 ===============================
 Game Developer Junior
 ---------------------
-Hi 👋 My name is Florian Debosz
 * 🌍  I'm based in France
 
 
