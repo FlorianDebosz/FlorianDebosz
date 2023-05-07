@@ -1,6 +1,6 @@
 Hi 👋 My name is Mezsan
 ===============================
-Game Developer Junior
+Developer Junior
 ---------------------
 * 🌍  I'm based in France
 
